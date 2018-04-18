@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "132996813672",
+    "firebase_url": "https://myfirebaseauthapp-63d38.firebaseio.com",
+    "project_id": "myfirebaseauthapp-63d38",
+    "storage_bucket": "myfirebaseauthapp-63d38.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:132996813672:android:a17402a6135f41c5",
+        "android_client_info": {
+          "package_name": "com.example.jorge.firebaseregistrationloginexam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "132996813672-77duggs5ehao3lm0jqispuqu5skmd8vk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrPZ_KSTDLH2cXztaZBJRJmj4f-KTAyqw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
